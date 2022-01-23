@@ -14,9 +14,6 @@
         },
         {
             "m_Id": "c39020be6353988794a5d296e4790b4f"
-        },
-        {
-            "m_Id": "f65cc3a0535046ba88fbc5c15bcd4039"
         }
     ],
     "m_Keywords": [],
@@ -3693,9 +3690,6 @@
         },
         {
             "m_Id": "c39020be6353988794a5d296e4790b4f"
-        },
-        {
-            "m_Id": "f65cc3a0535046ba88fbc5c15bcd4039"
         }
     ]
 }
@@ -3711,7 +3705,7 @@
     "m_ShaderOutputName": "Edge2",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 0.30000001192092898,
+        "x": 0.5,
         "y": 0.25,
         "z": 0.25,
         "w": 1.0
@@ -4801,35 +4795,6 @@
     "m_StageCapability": 3,
     "m_Value": false,
     "m_DefaultValue": false
-}
-
-{
-    "m_SGVersion": 3,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.ColorShaderProperty",
-    "m_ObjectId": "f65cc3a0535046ba88fbc5c15bcd4039",
-    "m_Guid": {
-        "m_GuidSerialized": "1e978f20-5fc4-41f1-b9e1-66e41a4c44fc"
-    },
-    "m_Name": "Armor Color",
-    "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Armor Color",
-    "m_DefaultReferenceName": "_Armor_Color",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_UseCustomSlotLabel": false,
-    "m_CustomSlotLabel": "",
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": {
-        "r": 1.0,
-        "g": 1.0,
-        "b": 1.0,
-        "a": 0.0
-    },
-    "isMainColor": false,
-    "m_ColorMode": 0
 }
 
 {

@@ -47,8 +47,8 @@ Material:
     m_Ints: []
     m_Floats:
     - Vector1_15D3B310: 0
-    - Vector1_8FF8131A: 0.1
-    - Vector1_9302659A: 0.1
+    - Vector1_8FF8131A: 0.316
+    - Vector1_9302659A: 0.018
     - Vector1_93710809: 0
     - Vector1_B1536CC2: 0
     - Vector1_F208FF9D: 0
@@ -58,7 +58,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - Color_2C9231B5: {r: 0.9150943, g: 0.5678001, b: 0.55682623, a: 0}
+    - Color_2C9231B5: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 0}
     - Color_C94E10C6: {r: 1, g: 1, b: 1, a: 0}
     - _Armor_Color: {r: 0.9433962, g: 0.36044857, b: 0.36044857, a: 0}
     - _Outline_Color: {r: 0, g: 0, b: 0, a: 0}
