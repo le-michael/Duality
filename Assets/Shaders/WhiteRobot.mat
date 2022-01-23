@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: WhiteRobot
-  m_Shader: {fileID: -6465566751694194690, guid: 3c3c2ea15bcdcbc4cb603f14e5d639db,
+  m_Shader: {fileID: -6465566751694194690, guid: ca93ce06b1131c54caa38a5007a45822,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -20,6 +20,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_75B7E52F:
+        m_Texture: {fileID: 2800000, guid: 0a0e8af2869fa45f78e25460db578482, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _NormalFromTexture_7b26c5b6daf84b1eafe11b0d3d0570d4_Texture_0:
         m_Texture: {fileID: 2800000, guid: 94c473c9137744d7eabd829f1150da8d, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -42,11 +46,22 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_15D3B310: 0
+    - Vector1_8FF8131A: 0.1
+    - Vector1_9302659A: 0.1
+    - Vector1_93710809: 0
+    - Vector1_B1536CC2: 0
+    - Vector1_F208FF9D: 0
     - _Invert: 0
     - _InvertOffset: 0
+    - _Invert_Offset: 0.2
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    m_Colors:
+    - Color_2C9231B5: {r: 0.9150943, g: 0.5678001, b: 0.55682623, a: 0}
+    - Color_C94E10C6: {r: 1, g: 1, b: 1, a: 0}
+    - _Armor_Color: {r: 0.9433962, g: 0.36044857, b: 0.36044857, a: 0}
+    - _Outline_Color: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5443006486167828412
 MonoBehaviour:
